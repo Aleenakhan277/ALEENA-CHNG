@@ -1298,7 +1298,7 @@ def passwrd():
 
 	print('')
 
-	cetak(nel('\t[purple][green] Crack Selesai Ngab, Jangan Lupa Bersyukur[purple] <<[yellow] '))
+	cetak(nel('\t[purple][green] SELECT CRACKING METHOD [purple] <<[yellow] '))
 
 	print(f'[{h}•{u}]{h} OK : {h}%s '%(ok))
 
@@ -1308,7 +1308,7 @@ def passwrd():
 
 	print(' ')
 
-	woi = input('')
+	woi = input('use auto manual a/m')
 
 	if woi in ['y','Y']:
 

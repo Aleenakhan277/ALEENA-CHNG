@@ -272,7 +272,7 @@ def banner():
 
  '''
 
-	cetak(nel(ban, style='red'))
+	cetak(nel(ban, style='yellow'))
 
 #--------------------[ BAGIAN-MASUK ]--------------#
 
@@ -322,7 +322,7 @@ def login_lagi334():
 
 		banner()
 
-		cetak(nel('\t             CINTO MANDI : [green]OWNER ALEENA[purple] '))
+		cetak(nel('\t             TOOL OWNER : [green]ALEENA KHAN[purple] '))
 
 		asu = random.choice([m,k,h,b,u])
 
@@ -1154,7 +1154,7 @@ def setting():
 
 	print(f'{m}NOTE :\n{k}USE DEFULT PASS MENU ') 
 
-	print('')
+	print('y/t')
 
 	
 

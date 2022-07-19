@@ -1126,7 +1126,7 @@ def setting():
 
 	print('') 
 
-	cetak(nel('[bold purple]➣1. MOBILE\n➣2. MBASIC\n➣3. FREE\n bold purple]')) 
+	cetak(nel('[bold purple]➣1. MOBILE\n➣2. MBASIC\n➣3. FREE\n ]')) 
 
 	print('')
 
@@ -1308,9 +1308,9 @@ def passwrd():
 
 	print(' ')
 
-	woi = input('use auto manual a/m')
+	woi = input('use auto manual d/t')
 
-	if woi in ['y','Y']:
+	if woi in ['d','t']:
 
 		back()
 

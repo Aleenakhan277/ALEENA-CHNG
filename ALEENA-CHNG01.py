@@ -52,7 +52,7 @@ princp=[]
 
 	
 
-pro
+
 
 for xd in range(10000):
 

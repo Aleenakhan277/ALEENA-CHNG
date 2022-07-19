@@ -1156,7 +1156,7 @@ def setting():
 
 	print('')
 
-	_jembot_ = input( ')
+	
 
 #	if _jembot_ in ['']:
 
